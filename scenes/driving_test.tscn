@@ -1,0 +1,87 @@
+[gd_scene load_steps=7 format=3]
+[ext_resource type="Script" path="res://scripts/driving_test.gd" id="1"]
+[ext_resource type="PackedScene" path="res://scenes/car.tscn" id="2"]
+[ext_resource type="Script" path="res://scripts/drive_input.gd" id="3"]
+[ext_resource type="PackedScene" path="res://scenes/follow_camera.tscn" id="4"]
+[ext_resource type="PackedScene" path="res://scenes/driving_yard.tscn" id="5"]
+
+[sub_resource type="Environment" id="Environment"]
+background_mode = 1
+background_color = Color(0.69, 0.78, 0.75, 1)
+ambient_light_source = 3
+ambient_light_color = Color(0.8, 0.87, 0.89, 1)
+ambient_light_energy = 0.3
+reflected_light_source = 2
+
+[node name="DrivingTest" type="Node3D"]
+script = ExtResource("1")
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment")
+[node name="Sun" type="DirectionalLight3D" parent="."]
+rotation_degrees = Vector3(-55, -30, 0)
+light_color = Color(1, 0.94, 0.82, 1)
+light_energy = 0.7
+shadow_enabled = true
+directional_shadow_max_distance = 65.0
+[node name="Yard" parent="." instance=ExtResource("5")]
+[node name="DriveInput" type="Node" parent="."]
+script = ExtResource("3")
+[node name="Car" parent="." instance=ExtResource("2")]
+position = Vector3(2, 0.05, 9)
+[node name="FollowCamera" parent="." instance=ExtResource("4")]
+target_path = NodePath("../Car")
+[node name="HUD" type="CanvasLayer" parent="."]
+[node name="TopBar" type="ColorRect" parent="HUD"]
+anchor_right = 1.0
+offset_bottom = 100.0
+mouse_filter = 2
+color = Color(0.09, 0.16, 0.18, 0.91)
+[node name="Title" type="Label" parent="HUD"]
+offset_left = 30.0
+offset_top = 24.0
+theme_override_colors/font_color = Color(1, 0.97, 0.87, 1)
+theme_override_colors/font_shadow_color = Color(0.1, 0.2, 0.23, 0.8)
+theme_override_constants/shadow_offset_x = 1
+theme_override_constants/shadow_offset_y = 2
+theme_override_font_sizes/font_size = 26
+text = "PARKSHIFT"
+[node name="Subtitle" type="Label" parent="HUD"]
+offset_left = 31.0
+offset_top = 61.0
+theme_override_font_sizes/font_size = 16
+text = "DRIVING YARD  /  PHASE 02"
+[node name="Telemetry" type="Label" parent="HUD"]
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -245.0
+offset_top = 27.0
+offset_right = -30.0
+grow_horizontal = 0
+theme_override_font_sizes/font_size = 24
+horizontal_alignment = 2
+text = "00 km/h   /   N"
+[node name="Controls" type="Label" parent="HUD"]
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -54.0
+offset_bottom = -20.0
+grow_vertical = 0
+theme_override_colors/font_shadow_color = Color(0.1, 0.2, 0.23, 1)
+theme_override_constants/shadow_offset_y = 2
+theme_override_font_sizes/font_size = 19
+text = "W / S  Drive & reverse     A / D  Steer     SPACE  Brake     R  Reset     ESC  Pause"
+horizontal_alignment = 1
+[node name="Paused" type="Label" parent="HUD"]
+visible = false
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+theme_override_colors/font_shadow_color = Color(0.1, 0.2, 0.23, 1)
+theme_override_constants/shadow_offset_y = 3
+theme_override_font_sizes/font_size = 32
+text = "PAUSED\nPress Esc to resume"
+horizontal_alignment = 1
+vertical_alignment = 1
