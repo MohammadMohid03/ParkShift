@@ -1,0 +1,29 @@
+{
+  "district_base_rewards": [
+    100,
+    200,
+    300,
+    400,
+    500
+  ],
+  "reward_step_per_level": 5,
+  "tier_percentages": [
+    40,
+    70,
+    100
+  ],
+  "car_prices": {
+    "metro": 0,
+    "sport": 500,
+    "touring": 1500,
+    "shelby_2010": 750,
+    "alfa_spider": 1000,
+    "alfa_155": 1250,
+    "shelby_patrol": 1750,
+    "mclaren_gtr": 2500,
+    "porsche_gt3": 3000,
+    "alfa_stradale": 3500,
+    "mustang_gt3": 4000,
+    "mclaren_f1": 5000
+  }
+}
