@@ -1,0 +1,585 @@
+[
+  {
+    "file": "2010_ford_shelby_gt500.glb",
+    "name": "Shelby GT500 / 2010",
+    "class": "Muscle coupe",
+    "yaw": 180,
+    "skip": [
+      "lights_position_front_and_back"
+    ],
+    "price": 750,
+    "id": "shelby_2010",
+    "size": [
+      1.98,
+      1.3736036790529103,
+      4.570069088374282
+    ],
+    "scale": 0.9739482784398178,
+    "wheels": {
+      "Wheel_FL": {
+        "pivot": [
+          -0.7567529052746952,
+          0.35760067812577423,
+          -1.4183536301066497
+        ],
+        "radius": 0.35516580748409887
+      },
+      "Wheel_FR": {
+        "pivot": [
+          0.7593241287490786,
+          0.35760067812607693,
+          -1.4183554877655253
+        ],
+        "radius": 0.3551658074840989
+      },
+      "Wheel_RL": {
+        "pivot": [
+          -0.7500950047782438,
+          0.3551658074840989,
+          1.2307856280367768
+        ],
+        "radius": 0.3551658074840989
+      },
+      "Wheel_RR": {
+        "pivot": [
+          0.7512754222730582,
+          0.3551658074844017,
+          1.2307837703779012
+        ],
+        "radius": 0.3551658074840989
+      }
+    },
+    "triangles": 25893,
+    "materials": 10,
+    "source_metadata": {
+      "author": "amogusstrikesback2 (https://sketchfab.com/amogusstrikesback2)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/2010-ford-shelby-gt500-5ddb4811f5134c28bdd43198c6fc7a6a",
+      "title": "2010 ford shelby gt500"
+    },
+    "prepared_bytes": 2899176,
+    "omitted_incompatible_maps": []
+  },
+  {
+    "file": "1986_alfa_romeo_spider_quadrifoglio_verde.glb",
+    "name": "Alfa Spider / 1986",
+    "class": "Classic roadster",
+    "yaw": 180,
+    "price": 1000,
+    "id": "alfa_spider",
+    "size": [
+      1.98,
+      1.3550345960621037,
+      4.703224545575268
+    ],
+    "scale": 1.1043759134805382,
+    "wheels": {
+      "Wheel_FL": {
+        "pivot": [
+          -0.7236514428408636,
+          0.31714192824155035,
+          -1.2792961177600557
+        ],
+        "radius": 0.3171419282415499
+      },
+      "Wheel_FR": {
+        "pivot": [
+          0.7487199379295201,
+          0.3171419282415499,
+          -1.27929631082367
+        ],
+        "radius": 0.3171419282415499
+      },
+      "Wheel_RL": {
+        "pivot": [
+          -0.7236513111889957,
+          0.3171420352086937,
+          1.2055495559192873
+        ],
+        "radius": 0.3171419282415499
+      },
+      "Wheel_RR": {
+        "pivot": [
+          0.7487205714341076,
+          0.3171420352086932,
+          1.2055493628555973
+        ],
+        "radius": 0.31714192824154985
+      }
+    },
+    "triangles": 191750,
+    "materials": 36,
+    "source_metadata": {
+      "author": "OUTPISTON (https://sketchfab.com/outpiston)",
+      "license": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
+      "source": "https://sketchfab.com/3d-models/1986-alfa-romeo-spider-quadrifoglio-verde-f918dd0e74c445b98ab0d2dd3edfa591",
+      "title": "1986 Alfa Romeo Spider Quadrifoglio Verde"
+    },
+    "prepared_bytes": 8863852,
+    "omitted_incompatible_maps": []
+  },
+  {
+    "file": "1992_alfa_romeo_155_q4.glb",
+    "name": "Alfa 155 Q4 / 1992",
+    "class": "Sports sedan",
+    "yaw": 180,
+    "price": 1250,
+    "id": "alfa_155",
+    "size": [
+      1.98,
+      1.4182882213997523,
+      4.38893457768548
+    ],
+    "scale": 0.9908350824884158,
+    "wheels": {
+      "Wheel_FL": {
+        "pivot": [
+          -0.7270776488910164,
+          0.2900423805140104,
+          -1.2437980652918639
+        ],
+        "radius": 0.2900423805140104
+      },
+      "Wheel_FR": {
+        "pivot": [
+          0.7396110043996333,
+          0.29004238051401093,
+          -1.243798256932311
+        ],
+        "radius": 0.2900423805140104
+      },
+      "Wheel_RL": {
+        "pivot": [
+          -0.7088071734066537,
+          0.2900424912484605,
+          1.261852396272754
+        ],
+        "radius": 0.2900423805140103
+      },
+      "Wheel_RR": {
+        "pivot": [
+          0.7213413148853456,
+          0.29004249124846115,
+          1.2618522099667553
+        ],
+        "radius": 0.2900423805140103
+      }
+    },
+    "triangles": 220225,
+    "materials": 30,
+    "source_metadata": {
+      "author": "OUTPISTON (https://sketchfab.com/outpiston)",
+      "license": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
+      "source": "https://sketchfab.com/3d-models/1992-alfa-romeo-155-q4-9be37de2d57d4c93bd472637a42b9db3",
+      "title": "1992 Alfa Romeo 155 Q4"
+    },
+    "prepared_bytes": 9842604,
+    "omitted_incompatible_maps": []
+  },
+  {
+    "file": "2013_ford_shelby_gt500_-_patrol.glb",
+    "name": "Shelby Patrol / 2013",
+    "class": "Patrol coupe",
+    "yaw": 180,
+    "price": 1750,
+    "wheel_materials": [
+      0,
+      3,
+      13
+    ],
+    "id": "shelby_patrol",
+    "size": [
+      1.9800000000000002,
+      1.4802113916567858,
+      4.837889010425532
+    ],
+    "scale": 97.28984082738148,
+    "wheels": {
+      "Wheel_FL": {
+        "pivot": [
+          -0.7467432773164864,
+          0.33760010660066536,
+          -1.3571406343884764
+        ],
+        "radius": 0.3375212991926138
+      },
+      "Wheel_FR": {
+        "pivot": [
+          0.7467432773164868,
+          0.33760010660066536,
+          -1.3571406343884762
+        ],
+        "radius": 0.3375212991926138
+      },
+      "Wheel_RL": {
+        "pivot": [
+          -0.756395909039097,
+          0.3444099306963878,
+          1.2882445191653342
+        ],
+        "radius": 0.3444099306963878
+      },
+      "Wheel_RR": {
+        "pivot": [
+          0.7563959090390967,
+          0.3444099306963878,
+          1.2882445191653344
+        ],
+        "radius": 0.3444099306963878
+      }
+    },
+    "triangles": 84233,
+    "materials": 23,
+    "source_metadata": {
+      "author": "Ddiaz Design (https://sketchfab.com/ddiaz-design)",
+      "license": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
+      "source": "https://sketchfab.com/3d-models/2013-ford-shelby-gt500-patrol-6cef8f01bd924bac8e28903c8d5e7596",
+      "title": "2013 Ford Shelby GT500 - Patrol"
+    },
+    "prepared_bytes": 9431572,
+    "omitted_incompatible_maps": []
+  },
+  {
+    "file": "1995_mclaren_f1_gtr.glb",
+    "name": "McLaren F1 GTR / 1995",
+    "class": "Endurance racer",
+    "yaw": 180,
+    "price": 2500,
+    "wheel_materials": [
+      1,
+      20,
+      21
+    ],
+    "id": "mclaren_gtr",
+    "size": [
+      1.98,
+      1.6575013578607745,
+      4.330168829566953
+    ],
+    "scale": 0.9897030398188562,
+    "wheels": {
+      "Wheel_FL": {
+        "pivot": [
+          -0.7759568648423183,
+          0.31381091166296887,
+          -1.1254439574550492
+        ],
+        "radius": 0.3085568049995158
+      },
+      "Wheel_FR": {
+        "pivot": [
+          0.7759568648423187,
+          0.31381091166296887,
+          -1.1254439574550492
+        ],
+        "radius": 0.3085568049995158
+      },
+      "Wheel_RL": {
+        "pivot": [
+          -0.709944722549122,
+          0.3504875175545289,
+          1.5619960410552816
+        ],
+        "radius": 0.3504875175545289
+      },
+      "Wheel_RR": {
+        "pivot": [
+          0.7099456958989407,
+          0.3504875175545289,
+          1.5619960410552816
+        ],
+        "radius": 0.3504875175545289
+      }
+    },
+    "triangles": 141499,
+    "materials": 38,
+    "source_metadata": {
+      "author": "Kevin Love SketchFab (https://sketchfab.com/Tyler_Kevin)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/1995-mclaren-f1-gtr-202ad0309d3f45b69277c85322b580d2",
+      "title": "1995 McLaren F1 GTR"
+    },
+    "prepared_bytes": 10289740,
+    "omitted_incompatible_maps": [
+      "INT_Decals_Text_alfa.005:normalTexture",
+      "INT_Decals_Alu.005:normalTexture",
+      "Mechanicals.009:normalTexture"
+    ]
+  },
+  {
+    "file": "2024_porsche_992_gt3_r.glb",
+    "name": "Porsche GT3 R / 2024",
+    "class": "GT racer",
+    "yaw": 180,
+    "price": 3000,
+    "skip": [
+      "rim_blur",
+      "geo_rim_static"
+    ],
+    "wheel_materials": [
+      35,
+      36,
+      37,
+      38
+    ],
+    "id": "porsche_gt3",
+    "size": [
+      1.98,
+      1.211210632054815,
+      4.6071315160330615
+    ],
+    "scale": 96.62949134913134,
+    "wheels": {
+      "Wheel_FL": {
+        "pivot": [
+          -0.8074793126847639,
+          0.3289899880410458,
+          -1.2574344351907412
+        ],
+        "radius": 0.3289899880410458
+      },
+      "Wheel_FR": {
+        "pivot": [
+          0.8169608260474821,
+          0.3289899880410458,
+          -1.257434435190741
+        ],
+        "radius": 0.3289899880410458
+      },
+      "Wheel_RL": {
+        "pivot": [
+          -0.7997159931639182,
+          0.3426340984131876,
+          1.1743281544359656
+        ],
+        "radius": 0.34036122953128645
+      },
+      "Wheel_RR": {
+        "pivot": [
+          0.7962914989847455,
+          0.3427453300388619,
+          1.1744131656357042
+        ],
+        "radius": 0.3403612151323705
+      }
+    },
+    "triangles": 475384,
+    "materials": 91,
+    "source_metadata": {
+      "author": "Dave Love SketchFab (https://sketchfab.com/Tyler_Dave)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/2024-porsche-992-gt3-r-b76c9b2ae2d548c3869426eac4ab8a19",
+      "title": "2024 Porsche 992 GT3 R"
+    },
+    "prepared_bytes": 27041580,
+    "omitted_incompatible_maps": []
+  },
+  {
+    "file": "alfa_romeo_stradale_1967.glb",
+    "name": "Alfa Stradale / 1967",
+    "class": "Classic supercar",
+    "yaw": 180,
+    "price": 3500,
+    "skip_materials": [
+      "vraymtl1"
+    ],
+    "wheel_materials": [
+      19
+    ],
+    "wheel_names": [
+      "polysurface45_",
+      "polysurface317_",
+      "polysurface318_",
+      "polysurface274_"
+    ],
+    "id": "alfa_stradale",
+    "size": [
+      1.98,
+      1.186898722717029,
+      4.596232258022395
+    ],
+    "scale": 14.119661111395807,
+    "wheels": {
+      "Wheel_FL": {
+        "pivot": [
+          -0.7744634135012345,
+          0.3536975275093527,
+          -1.2839711718728164
+        ],
+        "radius": 0.3536975275093527
+      },
+      "Wheel_FR": {
+        "pivot": [
+          0.777993274837953,
+          0.3536975275093527,
+          -1.2839711718728164
+        ],
+        "radius": 0.3536975275093527
+      },
+      "Wheel_RL": {
+        "pivot": [
+          -0.8217642488894825,
+          0.3676053616144966,
+          1.4451475369488445
+        ],
+        "radius": 0.3637930602017209
+      },
+      "Wheel_RR": {
+        "pivot": [
+          0.8252941102262004,
+          0.3676053616144966,
+          1.445147536948845
+        ],
+        "radius": 0.3637930602017209
+      }
+    },
+    "triangles": 414570,
+    "materials": 27,
+    "source_metadata": {
+      "author": "Ipatov Kirill (https://sketchfab.com/nesya100)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/alfa-romeo-stradale-1967-fbb6adc7a6e84c3db6969e1debcd364b",
+      "title": "Alfa Romeo Stradale 1967"
+    },
+    "prepared_bytes": 18143624,
+    "omitted_incompatible_maps": []
+  },
+  {
+    "file": "ford_mustang_gt3.glb",
+    "name": "Mustang GT3",
+    "class": "GT racer",
+    "yaw": 180,
+    "price": 4000,
+    "wheel_materials": [
+      2,
+      6,
+      28,
+      37
+    ],
+    "id": "mustang_gt3",
+    "size": [
+      1.98,
+      1.3619964553371586,
+      4.7664500423070875
+    ],
+    "scale": 0.9414976638957033,
+    "wheels": {
+      "Wheel_FL": {
+        "pivot": [
+          -0.8190727037611378,
+          0.323424937021818,
+          -1.3855308073494639
+        ],
+        "radius": 0.3207109354562458
+      },
+      "Wheel_FR": {
+        "pivot": [
+          0.7728512603608448,
+          0.34357917243591635,
+          -1.3948543026448341
+        ],
+        "radius": 0.32151767729200637
+      },
+      "Wheel_RL": {
+        "pivot": [
+          -0.7944645268704649,
+          0.332364172103717,
+          1.228288696618764
+        ],
+        "radius": 0.332364172103717
+      },
+      "Wheel_RR": {
+        "pivot": [
+          0.7955408747007563,
+          0.35299909378727645,
+          1.218667038882419
+        ],
+        "radius": 0.33384575409586803
+      }
+    },
+    "triangles": 375545,
+    "materials": 40,
+    "source_metadata": {
+      "author": "VTX (https://sketchfab.com/VTX_car)",
+      "license": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
+      "source": "https://sketchfab.com/3d-models/ford-mustang-gt3-78c40bf430c94e588136b1412247bcbb",
+      "title": "Ford Mustang GT3"
+    },
+    "prepared_bytes": 29584792,
+    "omitted_incompatible_maps": [
+      "Plastic_black_material:normalTexture",
+      "Plastic_black_material:metallicRoughnessTexture",
+      "Black_Plastic_Glossy:metallicRoughnessTexture"
+    ]
+  },
+  {
+    "file": "mclaren_f1_1993_by_alex.ka..glb",
+    "name": "McLaren F1 / 1993",
+    "class": "Road supercar",
+    "yaw": 180,
+    "price": 5000,
+    "skip_materials": [
+      "floor",
+      "material"
+    ],
+    "wheel_materials": [
+      18,
+      48,
+      49,
+      50,
+      53,
+      54
+    ],
+    "id": "mclaren_f1",
+    "size": [
+      1.98,
+      1.169316130296146,
+      4.373848804697646
+    ],
+    "scale": 0.862939126536081,
+    "wheels": {
+      "Wheel_FL": {
+        "pivot": [
+          -0.8303418202222219,
+          0.32218905823926697,
+          -1.185559135124699
+        ],
+        "radius": 0.32218905823926697
+      },
+      "Wheel_FR": {
+        "pivot": [
+          0.8326045534465847,
+          0.32218905823926697,
+          -1.1855591351246988
+        ],
+        "radius": 0.32218905823926697
+      },
+      "Wheel_RL": {
+        "pivot": [
+          -0.7887342973114435,
+          0.3558465306399149,
+          1.5776615595167405
+        ],
+        "radius": 0.3558454726842353
+      },
+      "Wheel_RR": {
+        "pivot": [
+          0.790996947575834,
+          0.3558465306399149,
+          1.5776615595167407
+        ],
+        "radius": 0.3558454726842353
+      }
+    },
+    "triangles": 78385,
+    "materials": 59,
+    "source_metadata": {
+      "author": "\u15e9\u14aaE\u166d. K\u15e9.\ud83d\ude97 (https://sketchfab.com/Alex.Ka.)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/mclaren-f1-1993-by-alexka-294df724d96241cdbe0e0f3c91ad7fce",
+      "title": "McLaren F1 1993 By Alex.Ka.\ud83e\udd0d\ud83d\udda4"
+    },
+    "prepared_bytes": 8591364,
+    "omitted_incompatible_maps": []
+  }
+]
