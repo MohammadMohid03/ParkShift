@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "art_direction_brief": "assets/art-direction-brief.md",
+  "assets": [
+    {
+      "id": "workshop-showroom",
+      "role": "3D menu environment",
+      "path": "scripts/workshop_showroom.gd",
+      "source": {
+        "kind": "original code-native geometry",
+        "creator": "PARKSHIFT project"
+      },
+      "technical": {
+        "extra_realtime_lights": 0,
+        "new_colliders": 0
+      },
+      "status": "agent-reviewed",
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": true,
+        "technical_checks_passed": true,
+        "reviewed_by": "Codex; user feedback pending"
+      }
+    },
+    {
+      "id": "district-plans",
+      "role": "five level-selection backgrounds",
+      "path": "scripts/district_art.gd",
+      "source": {
+        "kind": "original vector drawing",
+        "creator": "PARKSHIFT project"
+      },
+      "status": "agent-reviewed",
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": true,
+        "technical_checks_passed": true,
+        "reviewed_by": "Codex; user feedback pending"
+      }
+    },
+    {
+      "id": "garage-silhouettes",
+      "role": "lightweight car list markers",
+      "path": "scripts/vehicle_glyph.gd",
+      "source": {
+        "kind": "original vector drawing",
+        "creator": "PARKSHIFT project"
+      },
+      "status": "agent-reviewed",
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": true,
+        "technical_checks_passed": true,
+        "reviewed_by": "Codex; user feedback pending"
+      }
+    },
+    {
+      "id": "barlow-body",
+      "role": "interface typography",
+      "path": "assets/fonts/Barlow-Regular.ttf",
+      "source": {
+        "kind": "downloaded font",
+        "url": "https://github.com/google/fonts/tree/main/ofl/barlow",
+        "license": "SIL Open Font License 1.1",
+        "license_file": "assets/fonts/OFL.txt"
+      },
+      "status": "agent-reviewed",
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": true,
+        "technical_checks_passed": true,
+        "reviewed_by": "Codex; user feedback pending"
+      }
+    },
+    {
+      "id": "barlow-display",
+      "role": "titles and level numbers",
+      "path": "assets/fonts/BarlowCondensed-SemiBold.ttf",
+      "source": {
+        "kind": "downloaded font",
+        "url": "https://github.com/google/fonts/tree/main/ofl/barlowcondensed",
+        "license": "SIL Open Font License 1.1",
+        "license_file": "assets/fonts/OFL.txt"
+      },
+      "status": "agent-reviewed",
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": true,
+        "technical_checks_passed": true,
+        "reviewed_by": "Codex; user feedback pending"
+      }
+    },
+    {
+      "id": "district-architecture",
+      "role": "Five district environments",
+      "path": "scripts/district_environment.gd",
+      "source": {
+        "kind": "original procedural geometry",
+        "creator": "PARKSHIFT project"
+      },
+      "technical": {
+        "extra_realtime_lights": 0,
+        "new_colliders": 0
+      },
+      "status": "agent-reviewed",
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": true,
+        "technical_checks_passed": true,
+        "reviewed_by": "Codex; user phone review pending"
+      }
+    },
+    {
+      "id": "district-asphalt",
+      "role": "Tiled asphalt albedo",
+      "path": "assets/environment/asphalt_albedo.png",
+      "source": {
+        "provider": "OpenAI image generation",
+        "created": "2026-10-25",
+        "prompt_summary": "Seamless neutral asphalt aggregate, overhead, evenly lit, no markings or objects",
+        "kind": "AI-generated"
+      },
+      "technical": {
+        "mipmaps": true,
+        "import_max_dimension": 1024,
+        "mobile_compression": "ETC2",
+        "source_dimensions": [
+          1254,
+          1254
+        ],
+        "normal_detail": "separate seamless procedural NoiseTexture2D"
+      },
+      "status": "agent-reviewed",
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": true,
+        "technical_checks_passed": true,
+        "reviewed_by": "Codex; user phone review pending"
+      }
+    }
+  ]
+}
