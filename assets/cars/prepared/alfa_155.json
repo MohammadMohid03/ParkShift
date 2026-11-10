@@ -1,0 +1,58 @@
+{
+  "file": "1992_alfa_romeo_155_q4.glb",
+  "name": "Alfa 155 Q4 / 1992",
+  "class": "Sports sedan",
+  "yaw": 180,
+  "price": 1250,
+  "id": "alfa_155",
+  "size": [
+    1.98,
+    1.4182882213997523,
+    4.38893457768548
+  ],
+  "scale": 0.9908350824884158,
+  "wheels": {
+    "Wheel_FL": {
+      "pivot": [
+        -0.7270776488910164,
+        0.2900423805140104,
+        -1.2437980652918639
+      ],
+      "radius": 0.2900423805140104
+    },
+    "Wheel_FR": {
+      "pivot": [
+        0.7396110043996333,
+        0.29004238051401093,
+        -1.243798256932311
+      ],
+      "radius": 0.2900423805140104
+    },
+    "Wheel_RL": {
+      "pivot": [
+        -0.7088071734066537,
+        0.2900424912484605,
+        1.261852396272754
+      ],
+      "radius": 0.2900423805140103
+    },
+    "Wheel_RR": {
+      "pivot": [
+        0.7213413148853456,
+        0.29004249124846115,
+        1.2618522099667553
+      ],
+      "radius": 0.2900423805140103
+    }
+  },
+  "triangles": 220225,
+  "materials": 30,
+  "source_metadata": {
+    "author": "OUTPISTON (https://sketchfab.com/outpiston)",
+    "license": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "source": "https://sketchfab.com/3d-models/1992-alfa-romeo-155-q4-9be37de2d57d4c93bd472637a42b9db3",
+    "title": "1992 Alfa Romeo 155 Q4"
+  },
+  "prepared_bytes": 9842604,
+  "omitted_incompatible_maps": []
+}
