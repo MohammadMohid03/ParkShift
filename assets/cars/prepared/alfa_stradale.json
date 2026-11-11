@@ -1,0 +1,70 @@
+{
+  "file": "alfa_romeo_stradale_1967.glb",
+  "name": "Alfa Stradale / 1967",
+  "class": "Classic supercar",
+  "yaw": 180,
+  "price": 3500,
+  "skip_materials": [
+    "vraymtl1"
+  ],
+  "wheel_materials": [
+    19
+  ],
+  "wheel_names": [
+    "polysurface45_",
+    "polysurface317_",
+    "polysurface318_",
+    "polysurface274_"
+  ],
+  "id": "alfa_stradale",
+  "size": [
+    1.98,
+    1.186898722717029,
+    4.596232258022395
+  ],
+  "scale": 14.119661111395807,
+  "wheels": {
+    "Wheel_FL": {
+      "pivot": [
+        -0.7744634135012345,
+        0.3536975275093527,
+        -1.2839711718728164
+      ],
+      "radius": 0.3536975275093527
+    },
+    "Wheel_FR": {
+      "pivot": [
+        0.777993274837953,
+        0.3536975275093527,
+        -1.2839711718728164
+      ],
+      "radius": 0.3536975275093527
+    },
+    "Wheel_RL": {
+      "pivot": [
+        -0.8217642488894825,
+        0.3676053616144966,
+        1.4451475369488445
+      ],
+      "radius": 0.3637930602017209
+    },
+    "Wheel_RR": {
+      "pivot": [
+        0.8252941102262004,
+        0.3676053616144966,
+        1.445147536948845
+      ],
+      "radius": 0.3637930602017209
+    }
+  },
+  "triangles": 414570,
+  "materials": 27,
+  "source_metadata": {
+    "author": "Ipatov Kirill (https://sketchfab.com/nesya100)",
+    "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+    "source": "https://sketchfab.com/3d-models/alfa-romeo-stradale-1967-fbb6adc7a6e84c3db6969e1debcd364b",
+    "title": "Alfa Romeo Stradale 1967"
+  },
+  "prepared_bytes": 18143624,
+  "omitted_incompatible_maps": []
+}
