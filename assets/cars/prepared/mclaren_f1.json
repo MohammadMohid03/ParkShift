@@ -1,0 +1,70 @@
+{
+  "file": "mclaren_f1_1993_by_alex.ka..glb",
+  "name": "McLaren F1 / 1993",
+  "class": "Road supercar",
+  "yaw": 180,
+  "price": 5000,
+  "skip_materials": [
+    "floor",
+    "material"
+  ],
+  "wheel_materials": [
+    18,
+    48,
+    49,
+    50,
+    53,
+    54
+  ],
+  "id": "mclaren_f1",
+  "size": [
+    1.98,
+    1.169316130296146,
+    4.373848804697646
+  ],
+  "scale": 0.862939126536081,
+  "wheels": {
+    "Wheel_FL": {
+      "pivot": [
+        -0.8303418202222219,
+        0.32218905823926697,
+        -1.185559135124699
+      ],
+      "radius": 0.32218905823926697
+    },
+    "Wheel_FR": {
+      "pivot": [
+        0.8326045534465847,
+        0.32218905823926697,
+        -1.1855591351246988
+      ],
+      "radius": 0.32218905823926697
+    },
+    "Wheel_RL": {
+      "pivot": [
+        -0.7887342973114435,
+        0.3558465306399149,
+        1.5776615595167405
+      ],
+      "radius": 0.3558454726842353
+    },
+    "Wheel_RR": {
+      "pivot": [
+        0.790996947575834,
+        0.3558465306399149,
+        1.5776615595167407
+      ],
+      "radius": 0.3558454726842353
+    }
+  },
+  "triangles": 78385,
+  "materials": 59,
+  "source_metadata": {
+    "author": "\u15e9\u14aaE\u166d. K\u15e9.\ud83d\ude97 (https://sketchfab.com/Alex.Ka.)",
+    "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+    "source": "https://sketchfab.com/3d-models/mclaren-f1-1993-by-alexka-294df724d96241cdbe0e0f3c91ad7fce",
+    "title": "McLaren F1 1993 By Alex.Ka.\ud83e\udd0d\ud83d\udda4"
+  },
+  "prepared_bytes": 8591364,
+  "omitted_incompatible_maps": []
+}
