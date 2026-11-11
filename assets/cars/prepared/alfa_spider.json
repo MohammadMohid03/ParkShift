@@ -1,0 +1,58 @@
+{
+  "file": "1986_alfa_romeo_spider_quadrifoglio_verde.glb",
+  "name": "Alfa Spider / 1986",
+  "class": "Classic roadster",
+  "yaw": 180,
+  "price": 1000,
+  "id": "alfa_spider",
+  "size": [
+    1.98,
+    1.3550345960621037,
+    4.703224545575268
+  ],
+  "scale": 1.1043759134805382,
+  "wheels": {
+    "Wheel_FL": {
+      "pivot": [
+        -0.7236514428408636,
+        0.31714192824155035,
+        -1.2792961177600557
+      ],
+      "radius": 0.3171419282415499
+    },
+    "Wheel_FR": {
+      "pivot": [
+        0.7487199379295201,
+        0.3171419282415499,
+        -1.27929631082367
+      ],
+      "radius": 0.3171419282415499
+    },
+    "Wheel_RL": {
+      "pivot": [
+        -0.7236513111889957,
+        0.3171420352086937,
+        1.2055495559192873
+      ],
+      "radius": 0.3171419282415499
+    },
+    "Wheel_RR": {
+      "pivot": [
+        0.7487205714341076,
+        0.3171420352086932,
+        1.2055493628555973
+      ],
+      "radius": 0.31714192824154985
+    }
+  },
+  "triangles": 191750,
+  "materials": 36,
+  "source_metadata": {
+    "author": "OUTPISTON (https://sketchfab.com/outpiston)",
+    "license": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "source": "https://sketchfab.com/3d-models/1986-alfa-romeo-spider-quadrifoglio-verde-f918dd0e74c445b98ab0d2dd3edfa591",
+    "title": "1986 Alfa Romeo Spider Quadrifoglio Verde"
+  },
+  "prepared_bytes": 8863852,
+  "omitted_incompatible_maps": []
+}
