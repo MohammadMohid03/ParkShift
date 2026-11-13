@@ -1,0 +1,67 @@
+{
+  "file": "1995_mclaren_f1_gtr.glb",
+  "name": "McLaren F1 GTR / 1995",
+  "class": "Endurance racer",
+  "yaw": 180,
+  "price": 2500,
+  "wheel_materials": [
+    1,
+    20,
+    21
+  ],
+  "id": "mclaren_gtr",
+  "size": [
+    1.98,
+    1.6575013578607745,
+    4.330168829566953
+  ],
+  "scale": 0.9897030398188562,
+  "wheels": {
+    "Wheel_FL": {
+      "pivot": [
+        -0.7759568648423183,
+        0.31381091166296887,
+        -1.1254439574550492
+      ],
+      "radius": 0.3085568049995158
+    },
+    "Wheel_FR": {
+      "pivot": [
+        0.7759568648423187,
+        0.31381091166296887,
+        -1.1254439574550492
+      ],
+      "radius": 0.3085568049995158
+    },
+    "Wheel_RL": {
+      "pivot": [
+        -0.709944722549122,
+        0.3504875175545289,
+        1.5619960410552816
+      ],
+      "radius": 0.3504875175545289
+    },
+    "Wheel_RR": {
+      "pivot": [
+        0.7099456958989407,
+        0.3504875175545289,
+        1.5619960410552816
+      ],
+      "radius": 0.3504875175545289
+    }
+  },
+  "triangles": 141499,
+  "materials": 38,
+  "source_metadata": {
+    "author": "Kevin Love SketchFab (https://sketchfab.com/Tyler_Kevin)",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "source": "https://sketchfab.com/3d-models/1995-mclaren-f1-gtr-202ad0309d3f45b69277c85322b580d2",
+    "title": "1995 McLaren F1 GTR"
+  },
+  "prepared_bytes": 10289740,
+  "omitted_incompatible_maps": [
+    "INT_Decals_Text_alfa.005:normalTexture",
+    "INT_Decals_Alu.005:normalTexture",
+    "Mechanicals.009:normalTexture"
+  ]
+}
